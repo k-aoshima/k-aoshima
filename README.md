@@ -18,3 +18,10 @@
 - Keyboard: DZ60 REV 3.0 type-c
 - Mouse: MX Master 2S
 - Smartphone: iPhone12 mini
+
+### My hobby
+- Building a custom keyboard
+
+
+![EC737BDE-33B0-4CD3-B33E-B29376197963_1_102_o](https://user-images.githubusercontent.com/66909211/179473386-8b9b4185-c383-4fb7-bc5d-54508a669b59.jpeg)
+
