@@ -19,7 +19,7 @@
 - Mouse: MX Master 2S
 - Smartphone: iPhone12 mini
 
-### My hobby
+### My obby
 - Building a custom keyboard
 
 
