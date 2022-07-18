@@ -18,6 +18,7 @@
 - Keyboard: DZ60 REV 3.0 type-c
 - Mouse: MX Master 2S
 - Smartphone: iPhone12 mini
+- Headset: SteelSeries ARCTIS 7
 
 ### My Hobby
 - Building a custom keyboard
