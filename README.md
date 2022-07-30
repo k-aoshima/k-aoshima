@@ -23,6 +23,7 @@
 ### My Hobby
 - Building a custom keyboard
 
+![IMG_1413](https://user-images.githubusercontent.com/66909211/181877387-fa974bd7-2ce0-4da8-8144-f632cad0d16c.jpeg)
 
-![EC737BDE-33B0-4CD3-B33E-B29376197963_1_102_o](https://user-images.githubusercontent.com/66909211/179473386-8b9b4185-c383-4fb7-bc5d-54508a669b59.jpeg)
+
 
